@@ -1,8 +1,5 @@
 #最近更新 2025-04-24
 
-#MIUI系统桌面
-com.miui.home
-
 #ColorOS系统桌面
 com.android.launcher
 
